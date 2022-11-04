@@ -1,0 +1,57 @@
+[
+  {
+    "id": "JHk290Xj",
+    "make": "Ford",
+    "model": "F10",
+    "package": "Base",
+    "color": "Blue",
+    "year": 2010,
+    "category": 1,
+    "mileage": 120123,
+    "price": 1399900
+  },
+  {
+    "id": "fWl37ia",
+    "make": "Toyota",
+    "model": "Camry",
+    "package": "SE",
+    "color": "White",
+    "year": 2019,
+    "category": 2,
+    "mileage": 3999,
+    "price": 2899000
+  },
+  {
+    "id": "1i3xjRllc",
+    "make": "Toyota",
+    "model": "Rav4",
+    "package": "XSE",
+    "color": "Red",
+    "year": 2018,
+    "category": 3,
+    "mileage": 24001,
+    "price": 2275000
+  },
+  {
+    "id": "dku43920s",
+    "make": "Ford",
+    "model": "Bronco",
+    "package": "Badlands",
+    "color": "Burnt Orange",
+    "year": 2022,
+    "category": 3,
+    "mileage": 1,
+    "price": 4499000
+  },
+  {
+    "id": "JHk290yj",
+    "make": "Ford",
+    "model": "F10",
+    "package": "Base",
+    "color": "Black",
+    "year": 2010,
+    "category": 1,
+    "mileage": 120123,
+    "price": 1999900
+  }
+]
