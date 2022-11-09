@@ -1,9 +1,11 @@
 import { configureStore } from "@reduxjs/toolkit";
-// import guesserReducer from "./features/guesserSlice";
+import carsReducer from "./features/carsSlice";
+import appReducer from "./features/appSlice";
 
 export const store = configureStore({
   reducer: {
-    // guesser: guesserReducer,
+    cars: carsReducer,
+    app: appReducer,
   },
 });
 

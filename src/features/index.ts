@@ -1,0 +1,1 @@
+export { setOpenModal } from "./appSlice";
